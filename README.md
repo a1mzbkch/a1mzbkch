@@ -2,52 +2,53 @@
   <img width="800px" height="125px" src="https://elcho.netlify.app/Liliya-icons/elcho.gif"/>
 </div>
 
-<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">Kubanych</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">
+  Hello! I'm <a href="" target="_blank">Kubanych</a> 👋  
+</h1>
+
+<h3 align="center" style="color:#3b82f6;">Front-End Developer | React | UI/UX | Tailwind Fan</h3>
+
+---
 
 ## 🙋‍♂️ About Me
 
-<a href="https://github.com/Elkhan2003">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Backend Developer"/>
-</a>
-
-## 📊 My Github Stats
-
-<div style="display: flex; justify-content: center; align-items: center;">
-<a href="https://github.com/Kubanycheva"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kubanycheva&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
-</a>
-<a href="https://github.com/Kubanycheva"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubanycheva&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-</a>
-</div>
-
 <p align="center">
-    <a href="https://https://github.com/Kubanycheva">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kubanycheva&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
-    </a>
+  <img height="50" src="https://readme-typing-svg.herokuapp.com?color=3b82f6&size=24&lines=Front-End+Developer;React+%7C+Tailwind+%7C+Firebase;UI+UX+Fanatic;Coding+is+my+zone" />
 </p>
 
-## 🔖 My contacts
+- 🔨 Currently working on: **Asman — clothing brand** website  
+- 📚 Studying: Front-End, AI/ML, Cybersecurity  
+- 🚀 Participating in hackathons, love teamwork  
+- 🎯 Goal: to build strong projects together  
 
-<div class="contacts">
-  <a href="https://wa.me/996508849118"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
-  <a href="https://t.me/lilillklp"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
-  <a href="https://"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
-  <a href="https://"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a>
-  <a href="https://><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
-  <a href="https://><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kubanych&show_icons=true&theme=radical&hide_border=true&bg_color=1e293b"/>
+  </a>
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubanych&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1e293b"/>
+  </a>
 </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+<p align="center" style="margin-top: 15px;">
+  <a href="">
+    <img title="GitHub Streak" alt="Kubanych's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kubanych&theme=merko&hide_border=true&stroke=3b82f6&background=1e293b"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    alt="Github Contribution Snake"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="800"
+    height="180"
   />
-</picture>
+</p>
