@@ -27,18 +27,19 @@
 
 <div align="center">
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kubanych&show_icons=true&theme=radical&hide_border=true&bg_color=1e293b"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kubanych&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   </a>
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubanych&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1e293b"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubanych&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   </a>
 </div>
 
 <p align="center" style="margin-top: 15px;">
   <a href="">
-    <img title="GitHub Streak" alt="Kubanych's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kubanych&theme=merko&hide_border=true&stroke=3b82f6&background=1e293b"/>
+    <img title="GitHub Streak" alt="Kubanych's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kubanych&theme=tokyonight&hide_border=true&stroke=61dafb&background=0d1117"/>
   </a>
 </p>
+
 
 ---
 
