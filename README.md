@@ -6,7 +6,7 @@
   Hello! I'm <a href="" target="_blank">Kubanych</a> 👋  
 </h1>
 
-<h3 align="center" style="color:#3b82f6;">Front-End Developer | React | UI/UX | Tailwind Fan</h3>
+<h3 align="center" style="color:#3b82f6;">Front-End Developer | React | SASS/SCSS | Tailwind</h3>
 
 ---
 
