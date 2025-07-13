@@ -16,11 +16,9 @@
   <img height="50" src="https://readme-typing-svg.herokuapp.com?color=3b82f6&size=24&lines=Front-End+Developer;React+%7C+Tailwind+%7C+Firebase;UI+UX+Fanatic;Coding+is+my+zone" />
 </p>
 
-- 🔨 Currently working on: **Asman — clothing brand** website  
-- 📚 Studying: Front-End, AI/ML, Cybersecurity  
-- 🚀 Participating in hackathons, love teamwork  
-- 🎯 Goal: to build strong projects together  
-
+- 🔨 Currently working on: **CRM-MED** website  
+- 📚 Studying: Full-Stack, Node.js, React  
+- 🎓 Currently interning at **Motion Web Academy**
 ---
 
 ## 📊 GitHub Stats
