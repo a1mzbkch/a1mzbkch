@@ -13,8 +13,9 @@
 ## 🙋‍♂️ About Me
 
 <p align="center">
-  <img height="50" src="https://readme-typing-svg.herokuapp.com?color=3b82f6&size=24&lines=Front-End+Developer;React+%7C+Tailwind+%7C+Firebase;UI+UX+Fanatic;Coding+is+my+zone" />
+  <img height="50" src="https://readme-typing-svg.herokuapp.com?color=3b82f6&size=24&lines=Front-End+Developer;React+%7C+Redux+%7C+Tailwind+%7C+Scss+%7C+Sass" />
 </p>
+
 
 - 🔨 Currently working on: **CRM-MED** website  
 - 📚 Studying: Full-Stack, Node.js, React  
