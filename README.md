@@ -13,7 +13,7 @@
 ## 🙋‍♂️ About Me
 
 <p align="center">
-  <img height="50" src="https://readme-typing-svg.herokuapp.com?color=3b82f6&size=24&lines=         Front-End+Developer;React+%7C+Redux+%7C+Tailwind+%7C+Scss+%7C+Sass" />
+  <img height="50" src="https://readme-typing-svg.herokuapp.com?color=3b82f6&size=24&lines=Front-End+Developer;React+%7C+Redux+%7C+Tailwind+%7C+Scss+%7C+Sass" />
 </p>
 
 
@@ -25,16 +25,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="">
+  <a href="https://github.com/almazbekovich55">
     <img src="https://github-readme-stats.vercel.app/api?username=Kubanych&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   </a>
-  <a href="">
+  <a href="https://github.com/almazbekovich55">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubanych&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   </a>
 </div>
 
 <p align="center" style="margin-top: 15px;">
-  <a href="">
+  <a href="https://github.com/almazbekovich55">
     <img title="GitHub Streak" alt="Kubanych's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kubanych&theme=tokyonight&hide_border=true&stroke=61dafb&background=0d1117"/>
   </a>
 </p>
