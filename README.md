@@ -8,7 +8,7 @@
 
 <h3 align="center" style="color:#3b82f6;">Front-End Developer | React | Sass/Scss | Tailwind</h3>
 
----
+
 
 ## 🙋‍♂️ About Me
 
