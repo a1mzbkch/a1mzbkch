@@ -25,17 +25,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/almazbekovich55" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=almazbekovich55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <a href="https://github.com/a1mzbkch" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=a1mzbkch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   </a>
-  <a href="https://github.com/almazbekovich55" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almazbekovich55&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <a href="https://github.com/a1mzbkch" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1mzbkch&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   </a>
 </div>
 
 <p align="center" style="margin-top: 15px;">
-  <a href="https://github.com/almazbekovich55" target="_blank" rel="noopener noreferrer">
-    <img title="GitHub Streak" alt="almazbekovich55's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=almazbekovich55&theme=tokyonight&hide_border=true&stroke=61dafb&background=0d1117"/>
+  <a href="https://github.com/a1mzbkch" target="_blank" rel="noopener noreferrer">
+    <img title="GitHub Streak" alt="a1mzbkch's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=a1mzbkch&theme=tokyonight&hide_border=true&stroke=61dafb&background=0d1117"/>
   </a>
 </p>
 
